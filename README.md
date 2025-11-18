@@ -55,19 +55,3 @@ gcc -Wall -Wextra -std=c11 *.c -o demo && ./demo
 
 Open `data/sample-telemetry.jsonl` to inspect representative console output. This is
 useful when validating your hardware wiring or cloud logging pipeline.
-
-## Additional Notes (Legacy Content)
-
-# How to use AI ChatGPT to design an electronic circuit
-
-- Course: How to use AI ChatGPT to design an electronic circuit
-- Author: Ashraf S A AlMadhoun
-- Link: https://www.udemy.com/course/how-to-use-ai-chatgpt-to-design-an-electronic-circuit/?couponCode=JULYMAXDICOUNT
-
-## Overview
-
-Leverage AI for schematic proposals and iterate quickly while verifying engineering constraints.
-
-## Purchase With Discount
-
-Enroll using the link above to get a discounted price and accelerate circuit design with AI.
